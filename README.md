@@ -1,4 +1,5 @@
-# Pneumonia-Detection-Using-CNN
+# Pneumonia-Detection-Using-CNN Deep Learning
+
 project Overview
 
 The model classifies chest X-ray images into two categories: Normal and Pneumonia. It uses a publicly available dataset of labeled X-ray images, which are preprocessed by resizing to a consistent input size and normalizing pixel values for optimal model performance.
